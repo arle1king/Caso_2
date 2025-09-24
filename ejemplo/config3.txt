@@ -1,0 +1,3 @@
+TP=512
+NPROC=4
+TAMS=6x6,8x4,5x7,9x3
